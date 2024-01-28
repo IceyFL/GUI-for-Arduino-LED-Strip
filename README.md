@@ -17,6 +17,7 @@ The Project is currently setup for an Arduino UNO.
 1. You should start by either running the setup.bat file or opening a command prompt instance in the directory you have downloaded this to and running ```pip install -r requirements.txt```
 
 2. Next you will want to setup a jsonblob at https://jsonblob.com with a color1 string and a color2 string
+
 ![image](https://github.com/IceyFL/GUI-for-Arduino-LED-Strip/assets/82657910/016b181b-a7af-4b2f-bdea-8760b6694e52)
 
 
