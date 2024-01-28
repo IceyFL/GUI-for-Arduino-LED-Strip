@@ -2,6 +2,7 @@
 
 
 ![image](https://github.com/IceyFL/GUI-for-Arduino-LED-Strip/assets/82657910/42585fd4-38b8-431d-bba3-b27e22bf1fbb)
+
 This is a simple project i have made in my free time
 
 This was designed specifically for my arduino so you may need to mess around with a few things to get it to work properly with your LED Lights.
@@ -16,7 +17,14 @@ The Project is currently setup for an Arduino UNO.
 1. You should start by either running the setup.bat file or opening a command prompt instance in the directory you have downloaded this to and running ```pip install -r requirements.txt```
 
 2. Next you will want to setup a jsonblob at https://jsonblob.com with a color1 string and a color2 string
+![image](https://github.com/IceyFL/GUI-for-Arduino-LED-Strip/assets/82657910/016b181b-a7af-4b2f-bdea-8760b6694e52)
+
+
 
 3. In the python code you should add the jsonblobid and the com port of your arduino
 
-4. Run the file
+4. You should upload the Arduino Code to your Arduino
+![image](https://github.com/IceyFL/GUI-for-Arduino-LED-Strip/assets/82657910/afe696b3-3722-4397-8c84-a841dd54bbaf)
+
+
+5. Run the python file
